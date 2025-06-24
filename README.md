@@ -35,16 +35,19 @@ To run any project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
-Navigate to the project folder:
+````
 
-bash
-Copy
-Edit
-cd your-repo-name/project-folder-name
-Open index.html in your browser.
+2. Navigate to the project folder:
 
-🤝 Contributing
+   ```bash
+   cd your-repo-name/project-folder-name
+   ```
+3. Open `index.html` in your browser.
+
+## 🤝 Contributing
+
 This repository is primarily a personal learning archive. However, feedback, suggestions, or enhancements are welcome.
 
-📄 License
-This repository is open-source and available under the MIT License.
+## 📄 License
+
+This repository is open-source and available under the [MIT License](LICENSE).
